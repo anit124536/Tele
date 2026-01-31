@@ -1,8 +1,0 @@
-
-{
-  "name": "Pro Admin & User Earning App",
-  "description": "A comprehensive earning platform with a secure admin control panel and a high-performance user interface for ad-based rewards, referrals, and content unlocking.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
